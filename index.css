@@ -33,39 +33,39 @@ body{
     height: 200px;
 }
 #fight{
-    background-image: url(img/menu/fight.png);
+    background-image: url(fight.png);
     background-size: 219px;
     background-repeat: no-repeat;
 }
 #fight:hover{
-    background-image: url(img/menu/fighthover.png);
+    background-image: url(fighthover.png);
 }
 #act{
     margin-left: 68px;
     background-size: 219px;
-    background-image: url(img/menu/act.png); 
+    background-image: url(act.png); 
     background-repeat: no-repeat;
 }
 #act:hover{
-    background-image: url(img/menu/acthover.png);
+    background-image: url(acthover.png);
 }
 #item{
     margin-left: 68px;
     background-size: 219px;
-    background-image: url(img/menu/item.png);
+    background-image: url(item.png);
     background-repeat: no-repeat;
 }
 #item:hover{
-    background-image: url(img/menu/itemhover.png);
+    background-image: url(itemhover.png);
 }
 #mercy{
     margin-left: 68px;
     background-size: 219px;
-    background-image: url(img/menu/mercy.png);
+    background-image: url(mercy.png);
     background-repeat: no-repeat;
 }
 #mercy:hover{
-    background-image: url(img/menu/mercyhover.png);
+    background-image: url(mercyhover.png);
 }
 table{
     position: relative;
