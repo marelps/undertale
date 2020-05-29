@@ -2,7 +2,7 @@ body{
     margin: 1px;
     position: absolute;
     background-color: #000;
-    background-image: url(img/ruins.jpg);
+    background-image: url(ruins.jpg);
     background-repeat: no-repeat;
     background-position-x: center;
 }
